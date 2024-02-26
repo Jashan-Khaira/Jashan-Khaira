@@ -1,4 +1,5 @@
-# Hello, I'm Jashanpreet
+<h1>Hi, I'm Jashanpreet Singh! <br/><a href="https://www.linkedin.com/in/jashanpreet-singh1999/">Network Security Engineer</a>, <a href="https://github.com/Jashan-Khaira">Cybersecurity Enthusiast </a></h1>
+
 <a href="https://www.linkedin.com/in/jashanpreet-singh1999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Network Security Engineer with a passion for Cybersecurity and connectivity, bringing 3+ years of experience to deliver top-tier solutions. 
