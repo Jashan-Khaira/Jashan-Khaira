@@ -8,7 +8,7 @@ Network Security Engineer with a passion for Cybersecurity and connectivity, bri
 
 My journey as a Network Security Engineer has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## 🤹‍♂️Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +19,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## 🔨Tools
 
 ### Network
 <div>
@@ -51,7 +51,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## 📃Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-CCNA-1A1A1A?&style=for-the-badge&logo=Cisco&logoColor=white" />
@@ -61,6 +61,6 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 <img src="https://img.shields.io/badge/-CNSS-003366?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## 👨‍💻 Cybersecurity Projects
 - Detection Lab
 - SOC Automation Project
