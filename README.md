@@ -15,7 +15,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md">SOC Automation Lab</a>|
 | Wireless Network Security                     | <a href="https://github.com/Jashan-Khaira/Wireless-Network-Security/blob/main/README.md">Wifi Hacking LAB</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md"> SOAR</a>|
-| Incident Response Planning and Execution      | Incident Response Planning Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/Jashan-Khaira/Incident-Response-Planning-Execution/blob/main/README.md">Incident Response Planning & Execution Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md"> TheHive</a>|
 | Network Traffic Monitoring and Attack Detection | <a>Network Monitoring & Attack Detection</a>|
 
