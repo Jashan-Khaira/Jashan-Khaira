@@ -42,6 +42,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cortex_XDR-2E8B57?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cisco_Secure_Endpoint-FF6600?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Trend%20Micro-009688?&style=for-the-badge&logo=Trend%20Micro&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
