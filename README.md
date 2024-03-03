@@ -13,15 +13,15 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a>Network Monitoring & Attack Detection</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md"> SOC Automation Lab</a>|
+| Wireless Network Security                     | <a href="https://github.com/Jashan-Khaira/Wireless-Network-Security/blob/main/README.md">Wifi Hacking LAB</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md"> SOAR</a>|
 | Incident Response Planning and Execution      | Incident Response Planning Lab|
-| Case Management with TheHive                  | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md"> SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | Scripting and Automation|
+| Case Management with TheHive                  | <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md"> TheHive</a>|
+| Network Traffic Monitoring and Attack Detection | <a>Network Monitoring & Attack Detection</a>|
 
 ## 👨‍💻 Cybersecurity Projects
 -  <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md">SOC Automation Project</a>
--  <a href="https://github.com/Jashan-Khaira/Wireless-Network-Security/blob/main/README.md"> Wifi Hacking </a>
+-  <a href="https://github.com/Jashan-Khaira/Wireless-Network-Security/blob/main/README.md"> Wifi Hacking LAB </a>
 
 ## 🔨Tools
 
