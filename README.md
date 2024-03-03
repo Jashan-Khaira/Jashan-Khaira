@@ -21,6 +21,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 
 ## 👨‍💻 Cybersecurity Projects
 -  <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md">SOC Automation Project</a>
+-  <a href="https://github.com/Jashan-Khaira/Wireless-Network-Security/blob/main/README.md"> Wifi Hacking </a>
 
 ## 🔨Tools
 
