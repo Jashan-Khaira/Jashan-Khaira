@@ -33,7 +33,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
     <img src="https://img.shields.io/badge/-BurpSuite-008080?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-1abc9c?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-9932CC?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-SNORT-87CEEB?&style=for-the-badge&logo=Snort&logoColor=white" />
 
 </div>
 
