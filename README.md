@@ -59,6 +59,7 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 ## 📃Certifications
 
 <div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1A1A1A?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-PCNSE-00539f?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
 <img src="https://img.shields.io/badge/-NSE1-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
