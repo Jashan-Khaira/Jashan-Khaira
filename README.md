@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jashanpreet Singh! <br/><a href="https://www.linkedin.com/in/jashanpreet-singh1999/">Network Security Engineer</a>, <a href="https://github.com/Jashan-Khaira">Cybersecurity Enthusiast </a></h1>
+<h1>Hi, I'm Jashanpreet Singh! <br/><a href="https://www.linkedin.com/in/jashanpreet-singh1999/">Cybersecurity Research Assistant</a>, <a href="https://github.com/Jashan-Khaira">Ex-Network Security Engineer </a></h1>
 
 <a href="https://www.linkedin.com/in/jashanpreet-singh1999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
