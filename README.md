@@ -1,12 +1,14 @@
 <h1>Hi, I'm Jashanpreet Singh! <br/><a href="https://www.linkedin.com/in/jashanpreet-singh1999/">Cybersecurity Research Assistant</a>, <a href="https://github.com/Jashan-Khaira">Ex-Network Security Engineer </a></h1>
 
-<a href="https://www.linkedin.com/in/jashanpreet-singh1999/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1242836406028730448) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jashanpreet-singh1999/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@jashankhaira52) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jashankhaira52) 
 
-Network Security Engineer with a passion for Cybersecurity and connectivity, bringing 3+ years of experience to deliver top-tier solutions. 
+# 💫 About Me:
+🔒 Passionate about Cybersecurity & Cloud Security with 3+ years of experience in Network Security.<br>🌱 Currently working on: Upskilling my cloud security & SOC analyst skills<br>🤝 Looking to collaborate on: Cybersecurity projects & SOC challenges<br>❓ Ask me about: Network security, cloud security, or breaking into cybersecurity!<br>📚 Currently learning: Everything SOC-related & advanced cloud security strategies<br>🤔 Looking for help with: Enhancing my SOC playbooks and blue team techniques<br>🎉 Fun fact: I love solving cybersecurity puzzles as much as I love a good cup of coffee!
 
-## Objective
+## 🎯Objective
 
-My journey as a Network Security Engineer has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With 3+ years of Network Security experience, I’ve developed a strong passion for cybersecurity and cloud security. I’m now focused on transitioning into a Security Operations Center (SOC) role as a Security Analyst, while also exploring opportunities in cloud security to protect and secure both traditional and cloud-based infrastructures.
 
 ## 🤹‍♂️Skills
 
@@ -51,9 +53,9 @@ My journey as a Network Security Engineer has led me to develop a passion for cy
 
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-2C2D72?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LimaCharlie-1A1A1A?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-121212?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-1E3A8A?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-F04E98?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## 📃Certifications
