@@ -22,8 +22,10 @@ With 3+ years of Network Security experience, I’ve developed a strong passion 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Jashan-Khaira/Network-Traffic-Monitoring/blob/main/README.md">Network Monitoring & Attack Detection</a>|
 
 ## 👨‍💻 Cybersecurity Projects
+-  <a href="https://medium.com/@jashankhaira52/list/30day-soc-analyst-challenge-30015bf57ef4" target="_blank">30 Day SOC Analyst Challenge</a>
 -  <a href="https://github.com/Jashan-Khaira/SOC-Automation-Project/blob/main/README.md">SOC Automation Project</a>
 -  <a href="https://github.com/Jashan-Khaira/Wireless-Network-Security/blob/main/README.md"> Wifi Hacking LAB </a>
+  
 
 ## 🔨Tools
 
@@ -61,6 +63,7 @@ With 3+ years of Network Security experience, I’ve developed a strong passion 
 ## 📃Certifications
 
 <div>
+<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker%20(CEH)-A100FF?&style=for-the-badge&logo=Certified%20Ethical%20Hacker&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-1A1A1A?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-PCNSE-00539f?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
