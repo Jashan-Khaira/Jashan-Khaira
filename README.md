@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jashanpreet Singh! <br/><a href="https://www.linkedin.com/in/jashanpreet-singh1999/">Cybersecurity Research Assistant</a>, <a href="https://github.com/Jashan-Khaira">Ex-Network Security Engineer </a></h1>
+<h1>Hi, I'm Jashanpreet Singh! <br/><a href="https://www.linkedin.com/in/jashanpreet-singh1999/"> Network Security Engineer @OMERS Toronto</a> <a href="https://github.com/Jashan-Khaira"> </a></h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1242836406028730448) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jashanpreet-singh1999/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jashankhaira52) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jashankhaira52) 
